@@ -1,7 +1,7 @@
 (function () {
 
     // Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "bscBot";
+    var fork = "loralie";
 
     // Define our function responsible for extending the bot.
     function extend() {
@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "Dance, o botzinho",
       language: "portuguese",
-      chatLink: "https://raw.githubusercontent.com/loralie/BPM/master/pt-BR.json",
+      chatLink: "https://rawgit.com/loralie/BPM/master/pt-BR.json",
       scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 1, // 1-200
@@ -89,7 +89,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: true,
       motdInterval: 10,
-      motd: "Entrem no nosso grupo do Facebook (off), e curtam a nossa página (off) :nail_care: :sparkles:",
+      motd: "Entrem no nosso grupo do Facebook: https://goo.gl/O7ggyi, e curtam a nossa página: https://goo.gl/2uc1qW :nail_care: :sparkles:",
       filterChat: true,
       etaRestriction: false,
       welcome: true,
