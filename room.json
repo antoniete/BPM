@@ -20,7 +20,7 @@
         "cohost":               "#42A5DC",
         "manager":              "#ef5636",
         "bouncer":              "#F3508F",
-        "rdj":                  "#5DB4FF",
+        "rdj":                  null,
         "subscriber":           null,
         "silversubscriber":     null,
         "friend":               null,
@@ -35,7 +35,7 @@
         "cohost":               "http://i.imgur.com/Sl3xC2d.png",
         "manager":              "http://i.imgur.com/f4yv5TY.png",
         "bouncer":              "http://i.imgur.com/kcG58MK.png",
-        "rdj":                  "http://i.imgur.com/meIplqn.png",
+        "rdj":                  null",
         "subscriber":           null,
         "silversubscriber":     null
     },
