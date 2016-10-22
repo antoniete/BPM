@@ -35,9 +35,9 @@
         "cohost":               "http://i.imgur.com/Sl3xC2d.png",
         "manager":              "http://i.imgur.com/f4yv5TY.png",
         "bouncer":              "http://i.imgur.com/kcG58MK.png",
-        "rdj":                  null",
+        "rdj":                  null,
         "subscriber":           null,
-        "silversubscriber":     null
+        "silversubscriber":     null,
     },
     "autocomplete": [],
     "emotes": {
