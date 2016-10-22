@@ -89,7 +89,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: true,
       motdInterval: 10,
-      motd: "Entrem no nosso grupo do Facebook: https://goo.gl/O7ggyi, e curtam a nossa página: https://goo.gl/2uc1qW :nail_care: :sparkles:",
+      motd: "Entrem no nosso grupo do Facebook: https://goo.gl/O7ggyi, e curtam a nossa página no Facebook: https://goo.gl/2uc1qW :sparkles:",
       filterChat: true,
       etaRestriction: false,
       welcome: true,
