@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "Dance, o botzinho",
+      botName: "Isa Popozão",
       language: "portuguese",
       chatLink: "https://rawgit.com/loralie/BPM/master/pt-BR.json",
       scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
@@ -80,7 +80,7 @@
       skipReasons: [
       ["theme", "Essa música não está de acordo com as regras da sala, toca outra pra nós mana. "],
       ["op", "This song is on the OP list. "],
-      ["history", "Vixe! Essa música tá no histórico, toca outra pra nós mana. "],
+      ["history", "Vixe! Essa música ainda tá no histórico, toca outra pra nós mana. "],
       ["mix", "You played a mix, which is against the rules. "],
       ["sound", "Epa! Essa música contém conteúdo NSFW, toca outra pra nós mana. "],
       ["unavailable", "Infelizmente essa música está indisponivel para alguns usuários... "]
@@ -89,7 +89,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: true,
       motdInterval: 10,
-      motd: "Entrem no nosso grupo do Facebook: https://goo.gl/O7ggyi, e curtam a nossa página no Facebook: https://goo.gl/2uc1qW :sparkles:",
+      motd: "Redes sociais em breve :sparkles:",
       filterChat: true,
       etaRestriction: false,
       welcome: true,
